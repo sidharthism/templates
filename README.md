@@ -1,7 +1,7 @@
 # templates
 ## Svelte and GraphQL Server templates for a modern reactive web app
 
-### Create a website for a SaaS in React
+### Create a website for a SaaS in [React](https://reactjs.org/)
 Features include:
 1. Home Page
     1. Landing section (navbar included [reactive])
